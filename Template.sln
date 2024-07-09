@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiTanet", "Template\MultiTanet.csproj", "{18349254-2AB0-4E3A-AE07-AD7478E2BA7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{EDF1B04C-5A24-4BA6-8A74-91B9058C2725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18349254-2AB0-4E3A-AE07-AD7478E2BA7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18349254-2AB0-4E3A-AE07-AD7478E2BA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18349254-2AB0-4E3A-AE07-AD7478E2BA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18349254-2AB0-4E3A-AE07-AD7478E2BA7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDF1B04C-5A24-4BA6-8A74-91B9058C2725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF1B04C-5A24-4BA6-8A74-91B9058C2725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF1B04C-5A24-4BA6-8A74-91B9058C2725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF1B04C-5A24-4BA6-8A74-91B9058C2725}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB0624A8-6F0F-4364-97FF-C7B46B339751}
+	EndGlobalSection
+EndGlobal
